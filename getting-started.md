@@ -122,5 +122,5 @@ If you want to learn more about creating resources in Kubernetes, check out
 amazing tutorial on their website. If you are completely new to Kubernetes, [the
 concept overview](https://kubernetes.io/docs/concepts/) might help you make
 sense of some things. If you're still feeling lost, don't hesitate to join our
-[Matrix room](https://matrix.to/#/#kubeshare:matrix.org) and join the
+[Matrix room](https://matrix.to/#/#kubealliance:matrix.org) and join the
 conversation!
