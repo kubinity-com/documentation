@@ -1,4 +1,6 @@
-# [KubeAlliance Documentation]()
+# [KubeAlliance Documentation](https://docs.kubealliance.com)
+
+> **Note**: Parts of this documentation may still be incomplete.
 
 ![KubeAlliance](./kubealliance-logo.png)
 

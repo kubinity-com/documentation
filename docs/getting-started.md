@@ -6,6 +6,8 @@ sidebar_position: 1
 
 This document describes how to get started with KubeAlliance.
 
+> **Note**: Parts of this documentation may still be incomplete.
+
 ## Prerequisites
 
 To access the cluster and deploy resources, you need KubeCTL. If you haven't
