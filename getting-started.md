@@ -1,6 +1,6 @@
 # Getting started
 
-This document describes how to get started with Kubeshare.
+This document describes how to get started with KubeAlliance.
 
 ## Prerequisites
 
@@ -11,7 +11,7 @@ Kubernetes documentation website.
 
 ## Creating an account
 
-Kubeshare is still being developed. There is no user management yet, so
+Kube Alliance is still being developed. There is no user management yet, so
 administrative actions have to be done by a human. To request an account, please
 head over to [my website](https://garrit.xyz/contact) and ask me about access to
 the cluster.
@@ -114,6 +114,8 @@ limits fairly small. As a result,
 
 Once KubeAlliance reaches enough maturity, it will be possible
 to allocate more resources in the cluster.
+
+## Next steps
 
 If you want to learn more about creating resources in Kubernetes, check out
 [this](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/declarative-config/)
