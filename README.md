@@ -1,14 +1,27 @@
-# KubeAlliance
+# [KubeAlliance Documentation]()
 
 ![KubeAlliance](./kubealliance-logo.png)
 
-Shared Kubernetes hosting for the rest of us.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
--   [Getting Started](./getting-started.md)
--   [Deploying a public service](./deploying-a-public-service.md)
+### Installation
 
-## TODO
+```
+$ npm
+```
 
--   Storage
--   Deploying a stateful application (Databases)
--   Secrets
+### Local Development
+
+```
+$ npm start
+```
+
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+
+### Build
+
+```
+$ npm build
+```
+
+This command generates static content into the `build` directory and can be served using any static contents hosting service.

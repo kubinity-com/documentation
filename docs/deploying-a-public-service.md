@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Deploying a public service
 
 This guide will walk you through deploying an instance of the `nginx` and expose
@@ -58,7 +62,7 @@ look at the [manifests of this cluster](https://github.com/garritfra/infra).
 
 We already talked about creating a
 [`Deployment`](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
-resource in our [Getting started](./getting-started.md) guide. Here's the
+resource in our [Getting started](/docs/getting-started.md) guide. Here's the
 manifest, in case you haven't yet deployed it:
 
 ```yml
