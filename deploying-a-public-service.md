@@ -253,7 +253,7 @@ see a `Secret` resource in your namespace, containing the certificate:
 
 NAME                             TYPE                                  DATA   AGE
 hello-world-issuer-account-key   Opaque                                1      6m
-test.slashdev.space-tls          kubernetes.io/tls                     2      1m
+mydomain.com-tls                 kubernetes.io/tls                     2      1m
 ```
 
 And if everything went well, you can now access your site via HTTPS!
