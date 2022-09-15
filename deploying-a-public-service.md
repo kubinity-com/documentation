@@ -225,7 +225,7 @@ metadata:
   name: hello-world
   annotations:
     kubernetes.io/ingress.class: nginx
-    cert-manager.io/issuer: letsencypt-staging
+    cert-manager.io/issuer: letsencrypt-staging
 
 spec:
   rules:
@@ -245,8 +245,8 @@ spec:
     secretName: mydomain.com-tls # The certificate will be stored in this secret
 ```
 
-After re-applying your ingress, you should see a `Secret` resource in your
-namespace, containing the certificate:
+Wait for a minute while cert-manager fetches your certificate, and you should
+see a `Secret` resource in your namespace, containing the certificate:
 
 ```
 > kubectl get secrets
