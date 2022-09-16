@@ -6,7 +6,14 @@ sidebar_position: 1
 
 This document describes how to get started with KubeAlliance.
 
-> **Note**: Parts of this documentation may still be incomplete.
+:::info
+
+Parts of this documentation may still be incomplete. If you found an issue or
+want to clarify a topic, we encourage you to head over to the
+[repository](https://github.com/kube-alliance/documentation) of our
+documentation and suggest changes.
+
+:::
 
 ## Prerequisites
 
