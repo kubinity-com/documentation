@@ -1,8 +1,8 @@
-# [KubeAlliance Documentation](https://docs.kubealliance.com)
+# [Kubinity Documentation](https://docs.kubinity.com)
 
 > **Note**: Parts of this documentation may still be incomplete.
 
-![KubeAlliance](./kubealliance-logo.png)
+![Kubinity](./kubinity-logo.png)
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
@@ -23,7 +23,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ npm build
+$ npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.

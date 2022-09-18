@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Getting started
 
-This document describes how to get started with KubeAlliance.
+This document describes how to get started with Kubinity.
 
 :::info
 
 Parts of this documentation may still be incomplete. If you found an issue or
 want to clarify a topic, we encourage you to head over to the
-[repository](https://github.com/kube-alliance/documentation) of our
+[repository](https://github.com/kubinity-com/documentation) of our
 documentation and suggest changes.
 
 :::
@@ -24,7 +24,7 @@ Kubernetes documentation website.
 
 ## Creating an account
 
-Kube Alliance is still being developed. There is no user management yet, so
+Kubinity is still being developed. There is no user management yet, so
 administrative actions have to be done by a human. To request an account, please
 head over to [my website](https://garrit.xyz/contact) and ask me about access to
 the cluster.
@@ -122,10 +122,10 @@ application!
 
 ### A note about resources
 
-During the initial testing phase of KubeAlliance, I decided to keep the resource
+During the initial testing phase of Kubinity, I decided to keep the resource
 limits fairly small. As a result, 
 
-Once KubeAlliance reaches enough maturity, it will be possible
+Once Kubinity reaches enough maturity, it will be possible
 to allocate more resources in the cluster.
 
 ## Next steps
@@ -135,5 +135,5 @@ If you want to learn more about creating resources in Kubernetes, check out
 amazing tutorial on their website. If you are completely new to Kubernetes, [the
 concept overview](https://kubernetes.io/docs/concepts/) might help you make
 sense of some things. If you're still feeling lost, don't hesitate to join our
-[Matrix room](https://matrix.to/#/#kubealliance:matrix.org) and join the
+[Matrix room](https://matrix.to/#/#kubinity:matrix.org) and join the
 conversation!

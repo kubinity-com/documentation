@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'KubeAlliance documentation',
+  title: 'Kubinity documentation',
   tagline: 'Kubernetes hosting for the rest of us',
-  url: 'https://kubealliance.com',
+  url: 'https://kubinity.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'kube-alliance', // Usually your GitHub org/user name.
+  organizationName: 'kubinity-com', // Usually your GitHub org/user name.
   projectName: 'Documentation', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'KubeAlliance documentation',
+        title: 'Kubinity documentation',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -63,7 +63,7 @@ const config = {
             label: 'Getting Started',
           },
           {
-            href: 'https://github.com/kube-alliance',
+            href: 'https://github.com/kubinity-com',
             label: 'GitHub',
             position: 'right',
           },
@@ -86,7 +86,7 @@ const config = {
             items: [
               {
                 label: 'Matrix',
-                href: 'https://matrix.to/#/#kubealliance:matrix.org',
+                href: 'https://matrix.to/#/#kubinity:matrix.org',
               },
             ],
           },
@@ -95,12 +95,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/kube-alliance',
+                href: 'https://github.com/kubinity-com',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} KubeAlliance. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kubinity. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

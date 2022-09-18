@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="KubeAlliance Documentation">
+      description="Kubinity Documentation">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

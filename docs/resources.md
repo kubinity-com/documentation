@@ -1,11 +1,11 @@
 # Namespace Resources
 
 Every namespace has a dedicated amount of resources. During the initial testing
-phase of KubeAlliance, you will have a quarter of a CPU core, 250 MB RAM and 2
-GB of storage available for scheduling. Once KubeAlliance reaches enough
+phase of Kubinity, you will have a quarter of a CPU core, 250 MB RAM and 2
+GB of storage available for scheduling. Once Kubinity reaches enough
 maturity, it will be possible to allocate more resources in the cluster.
 
-By default, a scheduled pod on KubeAlliance reserves 50m CPU and 50 MB RAM. This
+By default, a scheduled pod on Kubinity reserves 50m CPU and 50 MB RAM. This
 means that you can deploy 5 pods in total. However, the resources requested by a
 pod can be updated using its spec. Here's an example for `nginx`, which runs
 fine with way less resources:

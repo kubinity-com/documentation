@@ -20,7 +20,7 @@ the DNS settings of your domain registrar and add a CNAME record to the
 canonical domain of the cluster:
 
 ```
-kube01.kubealliance.com
+kube01.kubinity.com
 ```
 
 ### A and AAAA records
@@ -155,7 +155,7 @@ spec:
                   number: 80
 ```
 
-The KubeAlliance cluster runs
+The Kubinity cluster runs
 [NGINX](https://kubernetes.github.io/ingress-nginx/) as a
 public Ingress controller. Every request from and to the cluster goes through
 this controller. By creating an `Ingress`, we tell NGINX that we want to
