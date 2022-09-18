@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Kubinity documentation',
+  title: 'Kubinity Documentation',
   tagline: 'Kubernetes hosting for the rest of us',
   url: 'https://kubinity.com',
   baseUrl: '/',
@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Kubinity documentation',
+        title: 'Kubinity Documentation',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
