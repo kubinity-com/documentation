@@ -26,3 +26,8 @@ or suggestions? Feel free to open an issue!
 ## Milestone 4: Web presence
 
 - [ ] A landing page advertising the service, with links to docs and contact
+- [ ] A blog with news to the platform
+
+## Milestone 5: Pay-as-you-go
+
+- [ ] A new "pay as you go" tier for namespaces, billed monthly
